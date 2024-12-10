@@ -5,4 +5,4 @@ Tableau Data Story (english) link : https://public.tableau.com/app/profile/lemon
 
 This is a personnal project aiming on practice my data analysis skills.
 
-Data cleaned ans veryfied with Python, visualization done with Tableau Pulic
+Data cleaned and verified with Python, visualization done with Tableau Pulic
